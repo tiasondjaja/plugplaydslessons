@@ -1,5 +1,5 @@
 # plugplaydslessons
-This repository contains materials in my talk, "Teaching Elements of Machine Learning in a Quantitative Reasoning Course", at the *Plug and Play Data Science Lessons* at MathFest 2019.
+This repository contains materials in my talk, "Teaching Elements of Machine Learning in a Quantitative Reasoning Course", at the [*Plug and Play Data Science Lessons*](https://www.maa.org/meetings/mathfest/program-details/2019/contributed-paper-sessions) at MathFest 2019.
 
 
 ## Context
