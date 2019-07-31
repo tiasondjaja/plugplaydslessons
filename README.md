@@ -10,13 +10,15 @@ This repository contains materials in my talk, "Teaching Elements of Machine Lea
 + Course_Materials_R: this folder contains course materials in R
 	+ R Reference Sheet
 	+ Project template
-	+ Sample completed project can be found and run in [this google drive folder](https://drive.google.com/drive/folders/1x6PJ8KN8uKw7DRakFWiSVfn7xVjGKc1z?usp=sharing).
+	+ Sample completed project can be found and run in [this google drive folder](https://drive.google.com/drive/folders/1x6PJ8KN8uKw7DRakFWiSVfn7xVjGKc1z?usp=sharing)\*.
 + Course_Materials_python: this folder contains course materials in python
 	+ Python Reference Sheet
 	+ Project template
-	+ Sample completed project can be found and run in [this google drive folder](https://drive.google.com/drive/folders/1x6PJ8KN8uKw7DRakFWiSVfn7xVjGKc1z?usp=sharing).
+	+ Sample completed project can be found and run in [this google drive folder](https://drive.google.com/drive/folders/1x6PJ8KN8uKw7DRakFWiSVfn7xVjGKc1z?usp=sharing)\*.
 + CoreUA111_Fall2018
 	+ Other materials from Fall 2018
+
+\* This google drive folder is private, but I am more than happy to give access to other educators.
 
 ## Context
 
