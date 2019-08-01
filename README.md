@@ -5,7 +5,7 @@ This repository contains materials in my talk, "Teaching Elements of Machine Lea
 
 + datasets: this folder contains the dataset used in the project in Fall 2018, as well as other datasets that could be adapted for the project.
 	+ movies.csv: directly taken from Data 8
-	+ emails.csv: from UCI Machine Learning Repository
+	+ spam.csv: from UCI Machine Learning Repository, [SMS Spam Collection](https://archive.ics.uci.edu/ml/datasets/SMS+Spam+Collection)
 	+ 
 + Course_Materials_R: this folder contains course materials in R
 	+ R Reference Sheet
@@ -22,6 +22,16 @@ This repository contains materials in my talk, "Teaching Elements of Machine Lea
 
 ## Context
 
-I taught the pilot of the course "Quantitative Reasoning: From Data to Discovery" (NYU Core UA 111) in Fall 2018.  The course is centered around how we use data to build models and how we interpret the outputs of quantitative methods and models. The main goal of the course is not to train future mathematicians or data scientists, although we would be more than excited if many of the students taking this course is inspired to take further quantitative courses or to major in these fields.  Rather, the course aims to develop students' skills and confidence in quantitative reasoning and to help them be well-informed citizens and consumers of data and technology.
+I taught the pilot of the course "Quantitative Reasoning: From Data to Discovery" (NYU Core UA 111) in Fall 2018.  The course is centered around how we use data to build models and how we interpret the outputs of quantitative methods and models. The course aims to develop students' skills and confidence in quantitative reasoning and to help them be well-informed citizens and consumers of data and technology.
 
+## Big acknowledgement
 
+This project is adapted from a course project in UC Berkeley's ``Data Science for Everyone'' course. Many of our course's elements were inspired by how Data Science for Everyone was taught, including some overlaps in topics.
+
+### Changes and contributions
+
+The adjustments and changes we made are centered around adapting the course to be a data- and modeling-centric quantitative reasoning course, which includes shifts in course goals, emphases, and the way the topics are presented.  
+
+We taught the course in R instead of python; the decision was mainly due to the slightly simpler syntax involved.  We hope that the course gives students the confidence that they can pick up other programming languages easily should they want to do that in the future.
+
+In the classification project, we infuse greater degrees of free exploration, add a decision tree component in addition to knn classifier, and adapt the project structure to include intermediate check-ins and oral presentations.  In Fall 2018, we used the same movie.csv dataset used in that course.
