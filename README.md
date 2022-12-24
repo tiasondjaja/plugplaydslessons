@@ -15,8 +15,8 @@ Instructors who are interested in using this module in their own courses can clo
 
 In addition, we provide a Google Colaboratory version of the lesson notebooks below.
 
-+ lesson01 <a href=\"https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson01.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
-+ lesson02 <a href=\"https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson02.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
-+ lesson03 <a href=\"https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson03.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
-+ lesson04 <a href=\"https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson04.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
-+ lesson05 <a href=\"https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson05.ipynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>
++ [lesson01.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson01.ipynb)
++ [lesson02.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson02.ipynb)
++ [lesson03.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson03.ipynb)
++ [lesson04.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson04.ipynb)
++ [lesson05.ipynb ![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tiasondjaja/plugplaydslessons/blob/master/lessons-python-colab/lesson05.ipynb)
