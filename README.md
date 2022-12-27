@@ -1,6 +1,6 @@
-# Plug-and-play DS Lessons
+# From Data to Discovery: A Teaching Module for Quantitative Reasoning Courses
 
-The materials in this module were originally developed for a quantitative reasoning course at New York University.  The course, ``From Data to Discovery'', has no prerequisite beyond basic arithmetic and algebra, and is part of the college's undergraduate general education curriculum.  Piloted in Fall 2018, the course has been offered twice a year, teaching 60-100 students each semester.  The course materials have also been adapted for \href{https://cims.nyu.edu/gstem/programs/data-science/}{NYU GSTEM}, a course for STEM-oriented high school women.
+The materials in this module were originally developed for a quantitative reasoning course at New York University.  The course, ``From Data to Discovery'', has no prerequisite beyond basic arithmetic and algebra, and is part of the college's undergraduate general education curriculum.  Piloted in Fall 2018, the course has been offered twice a year, teaching 60-100 students each semester.  The course materials have also been adapted for [NYU GSTEM](https://cims.nyu.edu/gstem/programs/data-science/), a course for STEM-oriented high school women.
 
 ## Talk/Paper
 "Teaching Elements of Machine Learning in a Quantitative Reasoning Course", [*Plug and Play Data Science Lessons*](https://www.maa.org/meetings/mathfest/program-details/2019/contributed-paper-sessions), [MAA MathFest](https://www.maa.org/meetings/mathfest) 2019.
